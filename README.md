@@ -58,6 +58,3 @@ The system uses a defined mapping for credit ratings based on Probability of Def
     -   Evaluate the model.
     -   View the assigned risk ratings and migration matrix.
 
-## License
-
-[Add License Information Here]
